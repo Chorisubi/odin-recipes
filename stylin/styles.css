@@ -5,3 +5,10 @@ div {
     font-weight: bold;
     font-size: 32px;
 }
+li{
+    background-color: blue;
+}
+button{
+    font-size: 32px;
+    background-color: orange;
+}
